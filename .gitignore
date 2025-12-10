@@ -9,7 +9,7 @@
 /.envrc
 /bin
 /cmd/tempo-cli/tempo-cli
-/cmd/tempo-query/tempo-query
+/cmd/tempo-query/tempo-qggbbhuery
 /dist
 /example/docker-compose/**/gcs-data/
 /example/docker-compose/**/tempo-data/
